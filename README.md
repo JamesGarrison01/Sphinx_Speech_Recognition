@@ -1,13 +1,20 @@
 Machine Learning Project Proposal
 To: Dr. Lu
+
 From: James Garrison,
+
 Michael Scales
+
 Subject: Project Proposal – CMU Sphinx Improving WER Performance
+
 Date: 11/20/2018
+
 The purpose of this proposal is to get your feedback on our project idea. We are looking to improve the performance
 of the Carnegie Mellon Universities’ (CMU) Sphinx Speech Recognition Tool for our single spoken word
 application.
+
 Summary
+
 Many modern speech recognition tools are available for use, but they are general purpose and don’t necessarily work
 well under specific application constraints. For our application, we want high single word recognition with low
 WER (Word Error Rate). Our application wants to execute command words, so the recognition tool must be
